@@ -1,0 +1,1 @@
+This Rock Paper Scissors game project aims to deliver a fun and engaging experience for users while showcasing fundamental programming and design skills. By incorporating user-friendly features and responsive design, the game will provide an enjoyable interactive experience for players of all ages.
